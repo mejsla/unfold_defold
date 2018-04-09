@@ -1,4 +1,7 @@
 # Unfold defold
+
+![Eggton - One egg is un oeuf](/promo/eggtonsaga.png)
+
 ## Basic game development for kings
 
 In this Step-up, we are going to dive into Defold, the game engine used by and developed by [King](www.king.com).
