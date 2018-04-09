@@ -1,5 +1,3 @@
-# Unfold defold
-
 ![Eggton - One egg is un oeuf](/promo/eggtonsaga.png)
 
 ## Basic game development for kings
