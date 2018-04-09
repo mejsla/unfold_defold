@@ -1,13 +1,14 @@
-# Welcome to Defold
+# Unfold defold
+## Basic game development for kings
 
-This project was created from the "empty" project template.
+In this Step-up, we are going to dive into Defold, the game engine used by and developed by [King](www.king.com).
 
-The settings in ["game.project"](defold://open?path=/game.project) are all the default. A bootstrap empty ["main.collection"](defold://open?path=/main/main.collection) is included.
+Together we are going to create Eggton™️  - a simple but yet fantastic and eggstravagant platformer.
 
-Check out [the documentation pages](https://defold.com/learn) for examples, tutorials, manuals and API docs.
+## Preparations
+- Download and install [defold](www.defold.com)
+- Clone this boiler plate project
+- Prepare to be amazed
 
-If you run into trouble, help is available in [our forum](https://forum.defold.com).
-
-Happy Defolding!
-
----
+## Glossary
+https://www.defold.com/manuals/glossary
