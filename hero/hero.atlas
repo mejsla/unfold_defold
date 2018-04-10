@@ -1,0 +1,44 @@
+images {
+  image: "/hero/image/eggton_unhatched01.png"
+}
+animations {
+  id: "eggton_walk"
+  images {
+    image: "/hero/image/eggton_moving01.png"
+  }
+  images {
+    image: "/hero/image/eggton_moving02.png"
+  }
+  images {
+    image: "/hero/image/eggton_moving03.png"
+  }
+  images {
+    image: "/hero/image/eggton_moving04.png"
+  }
+  images {
+    image: "/hero/image/eggton_moving05.png"
+  }
+  images {
+    image: "/hero/image/eggton_moving06.png"
+  }
+  images {
+    image: "/hero/image/eggton_moving07.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 6
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+animations {
+  id: "eggton_idle"
+  images {
+    image: "/hero/image/eggton_unhatched01.png"
+  }
+  playback: PLAYBACK_LOOP_FORWARD
+  fps: 60
+  flip_horizontal: 0
+  flip_vertical: 0
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0
