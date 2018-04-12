@@ -1,5 +1,9 @@
 # Extrauppgifter och hints  
 
+  ## Lua docs
+https://www.lua.org/pil/contents.html  
+https://www.lua.org/docs.html
+
   ## Fallanimation  
 Skapa en ny animation i hero.atlas. Ändra i hero.script så att när den vertikala hastigheten är negativ, så ändrar vi animation  
 
